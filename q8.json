@@ -1,0 +1,6 @@
+{
+"prompt": "A hyper-realistic surreal botanical scene in a vast misty field at golden hour: foreground features many slender wildflower stems with tiny blooms, each intimately entwined only with clusters of enormous radiant sunflowers towering twice as tall; sunflowers have massive golden petal faces turned outward with subtle knowing expressions, sparsely connected to each other via faint vine tendrils high above; no text, numbers, geometric shapes, charts, or mathematical notation; dramatic depth of field blurring distant stems, volumetric god rays piercing canopy, uncanny tension between delicate foreground intimacy and overwhelming elevated vastness, photorealistic digital art in style of Zdzisław Beksiński meets National Geographic macro photography, high contrast, ethereal lighting, minimum 1024px resolution.",
+"model": "Flux Pro 1.1",
+"paradox": "Friendship Paradox",
+"visual_logic": "Slender stems (low-degree nodes) connect only to towering sunflowers (hubs); hubs sparsely link above. Viewer feels isolation amid skewed centrality, embodying biased friend-degree sampling."
+}
